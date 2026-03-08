@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173 (or the port shown in terminal).
+Open `http://localhost:5173` (or the port shown in terminal).
 
 ## Building for Production
 

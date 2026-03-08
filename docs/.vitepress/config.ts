@@ -97,6 +97,7 @@ export default defineConfig({
   },
 
   markdown: {
+    checkLinks: false,
     checkDeadLinks: false
   }
 })
