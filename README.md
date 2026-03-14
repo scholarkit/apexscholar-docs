@@ -3,7 +3,7 @@
 This repository contains the official documentation for **Apex Scholar**, an AI-powered research workspace.
 
 - **Live docs**: https://apexscholar-docs.pages.dev
-- **Main app**: https://apex-scholar.vercel.app
+- **Main app**: https://apexscholar.vercel.app
 - **Source code**: https://github.com/scholarkit/apexscholar
 
 ## Building Locally

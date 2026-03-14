@@ -55,7 +55,8 @@ export default defineConfig({
             { text: 'Grant Tracker', link: '/features/grants' },
             { text: 'Citations', link: '/features/citations' },
             { text: 'File Chat', link: '/features/file-chat' },
-            { text: 'Encryption', link: '/features/encryption' }
+            { text: 'Encryption', link: '/features/encryption' },
+            { text: 'Zotero Integration', link: '/features/zotero' }
           ]
         }
       ],
